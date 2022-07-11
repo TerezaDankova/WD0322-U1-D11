@@ -1,0 +1,74 @@
+#h1 {
+  text-align: center;
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-size:  32pt;
+  }
+#smartshop {
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 48pt;
+  }
+#tableone {
+    font-family: arial, sans-serif;
+    margin-left: 150px;
+    width: 80%;
+  }
+td, th, tr {
+    border: 1px solid #dddddd;
+    padding: 1px;
+  }
+tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(139, 193, 228);
+  color: white;
+  }
+
+#tableformessage {
+  text-align: center;
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-size:  15pt;
+  padding: 10pt;
+  }
+#new-user {
+  text-align: center;
+  }
+.price{
+  text-align: center;
+}
+.buyhere {
+  text-align: center;
+}
+.iPhone {
+  text-align: center;
+}
+.text {
+  font-size: 12px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.selected {
+  color: rgb(84, 169, 195);
+  padding: 4px;
+}
+.color-blue {
+  color: rgb(11, 42, 49);
+}
+.section {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.btn{
+ color: rgb(43, 208, 226);
+ border-radius: 10px;
+ border-width: 2px;
+ border-color: rgb(0, 136, 255);
+ border-style: solid;
+ cursor: pointer;
+}
