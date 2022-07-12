@@ -19,6 +19,7 @@
   <div class="section">
     <button onclick="toggleAllHeaderClasses()">CHANGE TEXT</button>
     <button type="button" onclick="changeBackgroundColor()">CHANGE BACKGROUND COLOR</button>
+    <button type="button" onclick="footeradress()">CHANGE ADDRESS</button>
   </div>
 <table id="tableone">
     <tr>
@@ -104,12 +105,12 @@
       </h2>
       <form id="new-user">
         <input type="text" name="message" placeholder="Message" />
-        <a id="send" class="btn btn-primary">SEND</a>
+        <button type="button" onclick="footeradress()">SAVE</button>
       </form>		
   </div>
   <footer>
     <p>SMARTPHONE SHOP</p>
-    <p><a href="mailto:hege@example.com">hege@example.com</a></p>
+    <p id="footer"><a href="mailto:hege@example.com">hege@example.com</a></p>
   </footer>
   <script src="index.js">
   </script>
