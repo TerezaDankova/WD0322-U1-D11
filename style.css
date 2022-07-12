@@ -72,3 +72,6 @@ footer {
  border-style: solid;
  cursor: pointer;
 }
+.rgb {
+  color: rgb(216, 141, 126);
+}
